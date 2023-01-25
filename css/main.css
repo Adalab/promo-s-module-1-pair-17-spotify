@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header {
+  background-color: black
+}
+
+.nav_menu {
+
+  background: black;
+}
+
+.section-1 {
+background-color: blue;
+
+}
