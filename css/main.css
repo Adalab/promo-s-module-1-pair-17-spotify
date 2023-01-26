@@ -16,28 +16,12 @@
   justify-content: space-between;
 }
 
-.header {
-  width: 100%;
-  height: 5rem;
-  padding: 1rem;
-  background-color: black;
-  color: white;
-  font-size: 2rem;
-  flex-direction: row;
-  display: flex;
-  justify-content: space-between;
-}
-
-.header {
-  background-color: black
-}
-
-.nav_menu {
-
-  background: black;
-}
-
 .section-1 {
 background-color: blue;
+}
 
+.menu {
+
+  height: 100%;
+  width: 100%;
 }
